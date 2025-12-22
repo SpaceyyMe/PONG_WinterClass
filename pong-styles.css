@@ -48,7 +48,7 @@ body {
 }
 
 #errors {
-  color: red;
+  color: white;
   font-weight: 700;
 }
 
@@ -88,7 +88,7 @@ body {
   display: block;
   position: absolute;
   font-family: Arial, Helvetica, sans-serif;
-  color: red;
+  color: white;
   top: 0;
 }
 
